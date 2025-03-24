@@ -1,4 +1,4 @@
-﻿namespace Reisekosten;
+﻿namespace Uebung;
 
 class Program
 {

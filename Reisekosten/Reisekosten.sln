@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReisekostenTests", "ReisekostenTests\ReisekostenTests.csproj", "{92FD4B99-1971-44B7-9713-AF1971C4A54B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UebungTests", "UebungTests\UebungTests.csproj", "{92FD4B99-1971-44B7-9713-AF1971C4A54B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reisekosten", "Reisekosten\Reisekosten.csproj", "{0FB33294-4840-4D09-9833-3232592A3243}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung", "Uebung\Uebung.csproj", "{0FB33294-4840-4D09-9833-3232592A3243}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
